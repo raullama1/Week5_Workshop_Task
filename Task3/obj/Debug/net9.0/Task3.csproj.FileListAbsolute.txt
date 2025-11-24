@@ -1,0 +1,14 @@
+/Users/tenta/Documents/AD/Week5_Workshop_Task/Task3/Task3/bin/Debug/net9.0/Task3
+/Users/tenta/Documents/AD/Week5_Workshop_Task/Task3/Task3/bin/Debug/net9.0/Task3.deps.json
+/Users/tenta/Documents/AD/Week5_Workshop_Task/Task3/Task3/bin/Debug/net9.0/Task3.runtimeconfig.json
+/Users/tenta/Documents/AD/Week5_Workshop_Task/Task3/Task3/bin/Debug/net9.0/Task3.dll
+/Users/tenta/Documents/AD/Week5_Workshop_Task/Task3/Task3/bin/Debug/net9.0/Task3.pdb
+/Users/tenta/Documents/AD/Week5_Workshop_Task/Task3/Task3/obj/Debug/net9.0/Task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tenta/Documents/AD/Week5_Workshop_Task/Task3/Task3/obj/Debug/net9.0/Task3.AssemblyInfoInputs.cache
+/Users/tenta/Documents/AD/Week5_Workshop_Task/Task3/Task3/obj/Debug/net9.0/Task3.AssemblyInfo.cs
+/Users/tenta/Documents/AD/Week5_Workshop_Task/Task3/Task3/obj/Debug/net9.0/Task3.csproj.CoreCompileInputs.cache
+/Users/tenta/Documents/AD/Week5_Workshop_Task/Task3/Task3/obj/Debug/net9.0/Task3.dll
+/Users/tenta/Documents/AD/Week5_Workshop_Task/Task3/Task3/obj/Debug/net9.0/refint/Task3.dll
+/Users/tenta/Documents/AD/Week5_Workshop_Task/Task3/Task3/obj/Debug/net9.0/Task3.pdb
+/Users/tenta/Documents/AD/Week5_Workshop_Task/Task3/Task3/obj/Debug/net9.0/Task3.genruntimeconfig.cache
+/Users/tenta/Documents/AD/Week5_Workshop_Task/Task3/Task3/obj/Debug/net9.0/ref/Task3.dll
